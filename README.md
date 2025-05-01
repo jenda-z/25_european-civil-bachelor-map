@@ -6,6 +6,7 @@
 **Results**
 * Graphical summary: [read-only link](https://bit.ly/3EoGpqy) and [comment link](https://bit.ly/42cLWJT), both to Canva
 * Data: [comment link](https://bit.ly/4jqkii8) to Google Sheets or [local copy](https://github.com/jenda-z/25_european-civil-bachelor-map/blob/main/Bachelor%20Civil%20Engineering%20Comparison.ods)
+* Program/Specializations comparison: [comment link](https://bit.ly/44e2YJ4) to Google Sheets or [local copy](https://github.com/jenda-z/25_european-civil-bachelor-map/blob/main/Programs_Specializations%20Comparison.ods) [partly in 🇨🇿]
 
 **Links to results for individual universities**
 * [ETH Zurich](https://bit.ly/4cuELjG)
